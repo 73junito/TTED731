@@ -1,0 +1,3151 @@
+{
+  "livingston_2023": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2025-02-25T05:29:11Z",
+      "timestamp": 1740461351342,
+      "version": "3.37.3"
+    },
+    "reference-count": 0,
+    "publisher": "Hamilton",
+    "isbn-type": [
+      {
+        "value": "9780761849483",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "abstract": "<p>This publication was made possible by the Rector's Fund in support of publications and books, Bar Ilan University, Israel. The Andragogic Learning Center examines an eight-year study at the Bar Ilan School of Social Work, Israel (1989-1997). The study tested the efficacy of an innovative community-based teaching approach, combining field and class instruction. The efficacy of interaction between teaching and learning style in learning process and context was also examined. More than 400 B.S.W. students participated, divided each year into an experimental group of twelve students learning all three social work methods, and two control groups learning two social work methods. A number of hypotheses were tested, utilizing a detailed before/after questionnaire, which included a learning style questionnaire (TABS) and Middleman's Study Guide for ACSW Certification Exam. Role, Learning, and Andragogy Theories provided a framework for interpreting and understanding the process and results.</p>",
+    "DOI": "10.5771/9780761849483",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2025-02-24T13:07:19Z",
+      "timestamp": 1740402439000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Andragogic Learning Center"
+    ],
+    "prefix": "10.5771",
+    "author": [
+      {
+        "given": "Moshe",
+        "family": "Sonnheim",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shlomit",
+        "family": "Lehman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3821",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2025-02-24T13:33:22Z",
+      "timestamp": 1740404002000
+    },
+    "score": 26.736792,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nomos-elibrary.de/index.php?doi=10.5771/9780761849483"
+      }
+    },
+    "subtitle": [
+      "A Field Study in Social Work Education"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780761849483"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.5771/9780761849483",
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "stclair_2024": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T21:12:18Z",
+      "timestamp": 1782421938117,
+      "version": "3.54.5"
+    },
+    "reference-count": 22,
+    "publisher": "Wiley",
+    "issue": "184",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              11
+            ]
+          ],
+          "date-time": "2024-12-11T00:00:00Z",
+          "timestamp": 1733875200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 10,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "New Dir Adult Contin Educ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Andragogy was the first adult learning model to identify adult learners' characteristics and provide a pragmatic framework for responding to them. It is still considered a foundational and significant contribution to understanding adult learners despite substantial critique over the last 50 years. Current research supports the notion that andragogy is a useful model for designing instruction in numerous fields of practice. This chapter will look at the key ideas of andragogy, their theoretical background, the main critiques of andragogy, and the possible future of this broadly recognized approach to promoting the learning of adults.</jats:p>",
+    "DOI": "10.1002/ace.20546",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2024-12-12T05:34:44Z",
+      "timestamp": 1733981684000
+    },
+    "page": "7-13",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Andragogy: Past and Present Potential"
+    ],
+    "prefix": "10.1002",
+    "volume": "2024",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8114-406X",
+        "authenticated-orcid": false,
+        "given": "Ralf St.",
+        "family": "Clair",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Education University of Victoria  Victoria British Columbia Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "volume-title": "Malcolm Knowles Fonds",
+        "author": "Adult Education Council of Chicago",
+        "year": "1948"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_2_7_3_1",
+        "first-page": "17",
+        "article-title": "Malcolm Knowles and Carl Rogers: A Comparison of Andragogy and Student\u2010Centered Education",
+        "volume": "7",
+        "author": "Boyer D. L.",
+        "year": "1984",
+        "journal-title": "Lifelong Learning: An Omnibus of Practice and Research"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "volume-title": "Philosophical Foundations of Adult Education",
+        "author": "Elias J. L.",
+        "year": "1995"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "unstructured": "ERIC.2024.Education Resources Information Center. Institute of Education Sciences.https://eric.ed.gov."
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10734\u2010023\u201001097\u20107"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "first-page": "257",
+        "volume-title": "Making Space: Merging Theory and Practice in Adult Education",
+        "author": "Grace A. P.",
+        "year": "2001"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0260137840030304"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "first-page": "7",
+        "volume-title": "An. Inst.De Ins. \u201cG. Barit\u201d din Cluj\u2010Napoca, Series Humanistica",
+        "author": "Henschke J. A.",
+        "year": "2007"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "volume-title": "The Design of Education",
+        "author": "Houle C. O.",
+        "year": "1972"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "unstructured": "Knowles M. S.1968. \u201cAndragogy Not Pedagogy.\u201dAdult Leadership16 no.10:350\u2013352 386."
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "volume-title": "The Modern Practice of Adult Education",
+        "author": "Knowles M. S.",
+        "year": "1970"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "volume-title": "The Adult Learner: A Neglected Species",
+        "author": "Knowles M. S.",
+        "year": "1973"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "volume-title": "Andragogy in Action",
+        "author": "Knowles M. S.",
+        "year": "1984"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780080481913"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32674/jimphe.v8i1.3680"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02660830.2022.2144213"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "unstructured": "Roessger K. M. E. A.Roumell andJ.Weese.2018.Testing Andragogical Assumptions Across Countries Using Multi\u2010Level Analysis of PIAAC Data. Paper presented at the American Institutes for Research PIAAC Research Conference.Arlington VA December 6\u20137 2018."
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "first-page": "25",
+        "article-title": "Andragogy and Its Discontents: An Analysis of Andragogy From Three Critical Perspectives",
+        "volume": "14",
+        "author": "Sandlin J.",
+        "year": "2005",
+        "journal-title": "PAACE Journal of Lifelong Learning"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "volume-title": "An Historical Biography of Malcolm S. Knowles: The Re\u2010Making of an Adult Educator",
+        "author": "Sopher M. J.",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/07417136211027879"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_7_22_1",
+        "first-page": "1",
+        "article-title": "Andragogy's Transition into the Future: Meta\u2010Analysis of Andragogy and Its Search for a Measurable Instrument",
+        "volume": "38",
+        "author": "Taylor B.",
+        "year": "2009",
+        "journal-title": "Journal of Adult Education"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "volume-title": "Psychology and Adult Learning",
+        "author": "Tennant M.",
+        "year": "2006"
+      }
+    ],
+    "container-title": [
+      "New Directions for Adult and Continuing Education"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ace.20546",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          24
+        ]
+      ],
+      "date-time": "2024-12-24T07:17:22Z",
+      "timestamp": 1735024642000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/ace.20546"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "184",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/ace.20546"
+    ],
+    "URL": "https://doi.org/10.1002/ace.20546",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1052-2891",
+      "1536-0717"
+    ],
+    "issn-type": [
+      {
+        "value": "1052-2891",
+        "type": "print"
+      },
+      {
+        "value": "1536-0717",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-12-11",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  "mukhalalati_2019": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2026-07-04T17:10:16Z",
+      "timestamp": 1783185016438,
+      "version": "3.54.6"
+    },
+    "reference-count": 78,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2019-01-01T00:00:00Z",
+          "timestamp": 1546300800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Medical Education and Curricular Development"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec><jats:title>Background:</jats:title><jats:p> Adult learning theories play a pivotal role in the design and implementation of education programs, including healthcare professional programs. There is a variation in the use of theories in healthcare professional education programs and this is may be in part due to a lack of understanding of the range of learning theories available and paucity of specific, in-context examples, to help educators in considering alternative theories relevant to their teaching setting. This article seeks to synthesize key learning theories applicable in the learning and teaching of healthcare professionals and to provide examples of their use in context. </jats:p></jats:sec><jats:sec><jats:title>Method and results:</jats:title><jats:p> A literature review was conducted in 2015 and 2016 using PubMed, Scopus, Web of Science, and ERIC academic databases. Search terms used identified a range of relevant literature about learning theories, and their utilization in different healthcare professional education programs. The findings were synthesized and presented in a table format, illustrating the learning theory, specific examples from health and medical education, and a very brief critique of the theory. </jats:p></jats:sec><jats:sec><jats:title>Outcome:</jats:title><jats:p> The literature synthesis provides a quick and easy-to-use summary of key theories and examples of their use to help healthcare professional educators access a wider range of learning theories to inform their instructional strategies, learning objectives, and evaluation approaches. This will ultimately result in educational program enhancement and improvement in student learning experiences. </jats:p></jats:sec>",
+    "DOI": "10.1177/2382120519840332",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2019-04-10T12:35:25Z",
+      "timestamp": 1554899725000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 315,
+    "title": [
+      "Adult Learning Theories in Context: A Quick Guide for Healthcare Professional Educators"
+    ],
+    "prefix": "10.1177",
+    "volume": "6",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0049-8879",
+        "authenticated-orcid": false,
+        "given": "Banan Abdulrzaq",
+        "family": "Mukhalalati",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Clinical Pharmacy and Practice Section, College of Pharmacy, Qatar University, Doha, Qatar"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pharmacy & Pharmacology, University of Bath, Bath, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-2382120519840332",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.4103/2277-9531.151867",
+        "volume": "4",
+        "author": "Aliakbari F",
+        "year": "2015",
+        "journal-title": "J Educ Health Promot"
+      },
+      {
+        "key": "bibr2-2382120519840332",
+        "volume-title": "Teachers, Schools, and Society: A Brief Introduction to Education",
+        "author": "Zittleman K",
+        "year": "2015"
+      },
+      {
+        "key": "bibr3-2382120519840332",
+        "volume-title": "Platon\u2019s Erziehungslehre, Als P\u00e4dagogik F\u00fcr Die Einzelnen Als Staatsp\u00e4dagogik. Ober Dessen Praktische Philosophie",
+        "author": "Kapp A.",
+        "year": "1833"
+      },
+      {
+        "key": "bibr4-2382120519840332",
+        "volume-title": "The Adult Learner: A Neglected Species",
+        "author": "Knowles M.",
+        "year": "1988"
+      },
+      {
+        "key": "bibr5-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cptl.2015.06.002"
+      },
+      {
+        "key": "bibr6-2382120519840332",
+        "unstructured": "Mukhalalati B. Examining the disconnect between learning theories and educational practices in the PharmD programme at Qatar University: a case study. https://core.ac.uk/download/pdf/84915028.pdf. Up-dated 2016."
+      },
+      {
+        "key": "bibr7-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/0142159X.2013.828153"
+      },
+      {
+        "key": "bibr8-2382120519840332",
+        "volume-title": "Pharmacy Internship: Students\u2019 Learning in a Professional Practice Setting",
+        "author": "Wallman A.",
+        "year": "2010"
+      },
+      {
+        "key": "bibr9-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/ajpe80465"
+      },
+      {
+        "key": "bibr10-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/0142159X.2012.650741"
+      },
+      {
+        "key": "bibr11-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11124/JBISRIR-2016-003110"
+      },
+      {
+        "key": "bibr12-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nedt.2009.09.001"
+      },
+      {
+        "key": "bibr13-2382120519840332",
+        "volume-title": "Medical Education and Training. From Theory to Delivery",
+        "author": "Johnson N",
+        "year": "2009"
+      },
+      {
+        "key": "bibr14-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1331/1544345041475634"
+      },
+      {
+        "key": "bibr15-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1891/9780826125453"
+      },
+      {
+        "key": "bibr16-2382120519840332",
+        "unstructured": "Mulder M, Roelofs EA. Critical review of vocational education training research suggestions for the research agenda. https://www.mmulder.nl/wp-content/uploads/2011/11/2012-Mulder-Roelofs-Critical-Review-of-VET-Research-and-Research-Agenda.pdf"
+      },
+      {
+        "key": "bibr17-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13636820.2011.567337"
+      },
+      {
+        "key": "bibr18-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/ajpe7910153"
+      },
+      {
+        "key": "bibr19-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5962/bhl.title.55072"
+      },
+      {
+        "key": "bibr20-2382120519840332",
+        "volume-title": "Conditioned Reflexes",
+        "author": "Pavlov IP.",
+        "year": "1927"
+      },
+      {
+        "key": "bibr21-2382120519840332",
+        "unstructured": "Skinner BF. The Science of Learning and the Art of Teaching. Cambridge, MA: Skinner BF; 1954:99\u2013113."
+      },
+      {
+        "key": "bibr22-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1152/advan.00132.2015"
+      },
+      {
+        "key": "bibr23-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511803932"
+      },
+      {
+        "key": "bibr24-2382120519840332",
+        "volume-title": "An Independent Evaluation of Frameworks for Professional Development in Pharmacy",
+        "author": "Wright D",
+        "year": "2012"
+      },
+      {
+        "key": "bibr25-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11494-000"
+      },
+      {
+        "key": "bibr26-2382120519840332",
+        "volume-title": "Toward a Theory of Instruction",
+        "volume": "59",
+        "author": "Bruner JS",
+        "year": "1966"
+      },
+      {
+        "key": "bibr27-2382120519840332",
+        "first-page": "291",
+        "volume": "2",
+        "author": "Arab M",
+        "year": "2015",
+        "journal-title": "Int J Med Rev"
+      },
+      {
+        "key": "bibr28-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6486.2006.00605.x"
+      },
+      {
+        "key": "bibr29-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/ajpe75113a"
+      },
+      {
+        "key": "bibr30-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1045159512452848"
+      },
+      {
+        "key": "bibr31-2382120519840332",
+        "volume-title": "Experiential Learning as the Science of Learning and Development",
+        "author": "Kolb D.",
+        "year": "1984"
+      },
+      {
+        "key": "bibr32-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cptl.2015.04.006"
+      },
+      {
+        "key": "bibr33-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002216786300300208"
+      },
+      {
+        "key": "bibr34-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17763/haer.38.4.j07288786v86w660"
+      },
+      {
+        "key": "bibr35-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2006.06.037"
+      },
+      {
+        "key": "bibr36-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ace.3"
+      },
+      {
+        "key": "bibr37-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/074171367802800202"
+      },
+      {
+        "key": "bibr38-2382120519840332",
+        "first-page": "1",
+        "volume-title": "Fostering Critical Reflection in Adulthood",
+        "volume": "1990",
+        "author": "Mezirow J"
+      },
+      {
+        "key": "bibr39-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ace.7401"
+      },
+      {
+        "key": "bibr40-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02601370110036064"
+      },
+      {
+        "key": "bibr41-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3384/rela.2000-7426.rela5000"
+      },
+      {
+        "key": "bibr42-2382120519840332",
+        "first-page": "34",
+        "volume": "23",
+        "author": "Vygotsky L.",
+        "year": "1978",
+        "journal-title": "Readings Develop Child"
+      },
+      {
+        "key": "bibr43-2382120519840332",
+        "unstructured": "Sammons A. The social learning approach: the basics. http://www.psychlotron.org.uk. Up-dated 2015."
+      },
+      {
+        "key": "bibr44-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511815355"
+      },
+      {
+        "key": "bibr45-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/medu.12087"
+      },
+      {
+        "key": "bibr46-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0008417415576776"
+      },
+      {
+        "key": "bibr47-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6486.2006.00618.x"
+      },
+      {
+        "key": "bibr48-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/aj690355"
+      },
+      {
+        "key": "bibr49-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/ajpe7710210"
+      },
+      {
+        "key": "bibr50-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13648470903569388"
+      },
+      {
+        "key": "bibr51-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.55.1.68"
+      },
+      {
+        "key": "bibr52-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ACM.0b013e318253cc0e"
+      },
+      {
+        "key": "bibr53-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/ajpe79335"
+      },
+      {
+        "key": "bibr54-2382120519840332",
+        "volume-title": "Human Motivation: Metaphors, Theories, and Research",
+        "author": "Weiner B.",
+        "year": "1992"
+      },
+      {
+        "key": "bibr55-2382120519840332",
+        "volume-title": "Adults as Learners: Increasing Participation and Facilitating Learning",
+        "author": "Cross KP.",
+        "year": "1981"
+      },
+      {
+        "key": "bibr56-2382120519840332",
+        "volume-title": "Educating the Reflective Practitioner: Toward a New Design for Teaching and Learning in the Professions",
+        "author": "Sch\u00f6n DA.",
+        "year": "1987"
+      },
+      {
+        "key": "bibr57-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10459-007-9090-2"
+      },
+      {
+        "key": "bibr58-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315237473"
+      },
+      {
+        "key": "bibr59-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2923.2012.04217.x"
+      },
+      {
+        "key": "bibr60-2382120519840332",
+        "volume-title": "School Learning: An Introduction to Educational Psychology",
+        "author": "Ausubel DP",
+        "year": "1969"
+      },
+      {
+        "key": "bibr61-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14703297.2013.866051"
+      },
+      {
+        "key": "bibr62-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1748-5908-9-54"
+      },
+      {
+        "key": "bibr63-2382120519840332",
+        "first-page": "386",
+        "volume": "6",
+        "author": "Liu CH",
+        "year": "2005",
+        "journal-title": "Int Educ J"
+      },
+      {
+        "key": "bibr64-2382120519840332",
+        "unstructured": "Abdulwahed M. Towards enhancing laboratory education by the development and evaluation of the \u201cTriLab\u201d: a triple access mode (virtual, hands-on and remote) laboratory. https://dspace.lboro.ac.uk/dspace-jspui/handle/2134/6355. Up-dated 2010."
+      },
+      {
+        "key": "bibr65-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02601370701219475"
+      },
+      {
+        "key": "bibr66-2382120519840332",
+        "unstructured": "Thomas LB. Reflecting on practice: an exploration of the impact of targeted professional development on teacher action. https://repository.upenn.edu/dissertations/AAI3310494/. Up-dated 2008."
+      },
+      {
+        "key": "bibr67-2382120519840332",
+        "volume-title": "Paper presented at the 2012 Australian Collaborative Education Network National Conference",
+        "author": "Lucas P."
+      },
+      {
+        "key": "bibr68-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cptl.2010.01.005"
+      },
+      {
+        "key": "bibr69-2382120519840332",
+        "first-page": "195",
+        "volume": "5",
+        "author": "Ultanir E.",
+        "year": "2012",
+        "journal-title": "Int J Instruct"
+      },
+      {
+        "key": "bibr70-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5172/conu.2014.46.2.242"
+      },
+      {
+        "key": "bibr71-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nedt.2009.10.011"
+      },
+      {
+        "key": "bibr72-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/aj7206128"
+      },
+      {
+        "key": "bibr73-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5688/ajpe78363"
+      },
+      {
+        "key": "bibr74-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/1983-1447.2015.03.49670"
+      },
+      {
+        "key": "bibr75-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00131857.2013.763590"
+      },
+      {
+        "key": "bibr76-2382120519840332",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00001888-199009000-00045"
+      },
+      {
+        "key": "bibr77-2382120519840332",
+        "unstructured": "Royal Pharmaceutical Society, 2013. Advanced Pharmacy Framework (APF)[Online]. London: Royal Pharmaceutical Society of Great Britain (RPS). http://www.rpharms.com/faculty-documents/rps-advanced-pharmacy-framework-guide.pdf. Accessed April 15, 2016."
+      },
+      {
+        "key": "bibr78-2382120519840332",
+        "unstructured": "Royal Pharmaceutical Society, 2014. Foundation Pharmacy Framework (FPF)[Online]. London: Royal Pharmaceutical Society of Great Britain (RPS). https://www.rpharms.com/development-files/foundation-pharmacy-framework\u2014final.pdf. Accessed April 15, 2016."
+      }
+    ],
+    "container-title": [
+      "Journal of Medical Education and Curricular Development"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2382120519840332",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/2382120519840332",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2382120519840332",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2025-03-01T17:18:21Z",
+      "timestamp": 1740849501000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/2382120519840332"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "references-count": 78,
+    "alternative-id": [
+      "10.1177/2382120519840332"
+    ],
+    "URL": "https://doi.org/10.1177/2382120519840332",
+    "relation": {},
+    "ISSN": [
+      "2382-1205",
+      "2382-1205"
+    ],
+    "issn-type": [
+      {
+        "value": "2382-1205",
+        "type": "print"
+      },
+      {
+        "value": "2382-1205",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "article-number": "2382120519840332"
+  },
+  "guay_2022": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2026-07-04T08:40:47Z",
+      "timestamp": 1783154447479,
+      "version": "3.54.6"
+    },
+    "reference-count": 66,
+    "publisher": "SAGE Publications",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2021-10-27T00:00:00Z",
+          "timestamp": 1635292800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Canadian Journal of School Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The self-determination theory (SDT) has been used to understand students\u2019 motivation at school in general as well as in various school subjects. This literature review conducted on a number of SDT studies showed that (1) autonomous types of extrinsic motivation as well as intrinsic motivation leads to positive consequences for students; (2) the types of goals and the regulation behind them are also important to predict school outcomes; (3) when the psychological needs for competence, autonomy and relatedness are satisfied this leads to autonomous motivation or autonomous goals endorsement; (4) autonomy supportive practices by parents and teachers are important catalyzers of needs\u2019 fulfillment; (5) intervention programs designed for teachers or parents focusing on these psychological needs usually lead to greater autonomous extrinsic motivation and intrinsic motivation and better adjustment outcomes. The implication of this theory for school psychologists is underscored as well as its implications for the practice of teaching.</jats:p>",
+    "DOI": "10.1177/08295735211055355",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          28
+        ]
+      ],
+      "date-time": "2021-10-28T02:16:05Z",
+      "timestamp": 1635387365000
+    },
+    "page": "75-92",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 326,
+    "title": [
+      "Applying Self-Determination Theory to Education: Regulations Types, Psychological Needs, and Autonomy Supporting Behaviors"
+    ],
+    "prefix": "10.1177",
+    "volume": "37",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5207-3303",
+        "authenticated-orcid": false,
+        "given": "Fr\u00e9d\u00e9ric",
+        "family": "Guay",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Universit\u00e9 Laval, QC, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjep.12213"
+      },
+      {
+        "key": "bibr2-08295735211055355",
+        "unstructured": "Amrita K. (2011). Effects of teacher autonomy support intervention on Thai students\u2019 motivation: A self-determination theory perspective [Doctoral dissertation, Universiti Utara Malaysia]. http://etd.uum.edu.my/2966/"
+      },
+      {
+        "key": "bibr3-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0741932518802274"
+      },
+      {
+        "key": "bibr4-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15324834basp2703_4"
+      },
+      {
+        "key": "bibr5-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1123/jsep.34.3.365"
+      },
+      {
+        "key": "bibr6-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022022101032005006"
+      },
+      {
+        "key": "bibr7-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1348/000709910X517399"
+      },
+      {
+        "key": "bibr8-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.95.1.84"
+      },
+      {
+        "key": "bibr9-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002221949202500706"
+      },
+      {
+        "key": "bibr10-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.125.6.627"
+      },
+      {
+        "key": "bibr11-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327965PLI1104_01"
+      },
+      {
+        "key": "bibr12-08295735211055355",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1093/oxfordhb/9780195399820.013.0006",
+        "volume-title": "Oxford library of psychology. The Oxford handbook of human motivation",
+        "author": "Deci E. L.",
+        "year": "2012"
+      },
+      {
+        "key": "bibr13-08295735211055355",
+        "first-page": "109",
+        "volume-title": "International advances in self research. Theory driving research: New wave perspectives on self-processes and human development",
+        "author": "Deci E. L.",
+        "year": "2013"
+      },
+      {
+        "key": "bibr14-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1041-6080(96)90013-8"
+      },
+      {
+        "key": "bibr15-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.73.5.642"
+      },
+      {
+        "key": "bibr16-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pits.22243"
+      },
+      {
+        "key": "bibr17-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvb.2019.103338"
+      },
+      {
+        "key": "bibr18-08295735211055355",
+        "author": "Gilbert W.",
+        "year": "2021",
+        "journal-title": "Can teachers\u2019 need-supportive practices moderate the big-fish-little-pond effect? A quasi-experimental study with elementary school children"
+      },
+      {
+        "key": "bibr19-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/SJRA1004_05"
+      },
+      {
+        "key": "bibr20-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.81.2.143"
+      },
+      {
+        "key": "bibr21-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.83.4.508"
+      },
+      {
+        "key": "bibr22-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cedpsych.2020.101922"
+      },
+      {
+        "key": "bibr23-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13576500342000040"
+      },
+      {
+        "key": "bibr24-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.95.1.124"
+      },
+      {
+        "key": "bibr25-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1348/000709908X280971"
+      },
+      {
+        "key": "bibr26-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0167.50.2.165"
+      },
+      {
+        "key": "bibr27-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02339891"
+      },
+      {
+        "key": "bibr28-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.lindif.2015.11.014"
+      },
+      {
+        "key": "bibr29-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/rrq.035"
+      },
+      {
+        "key": "bibr30-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02188790600937326"
+      },
+      {
+        "key": "bibr31-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/003465430298487"
+      },
+      {
+        "key": "bibr32-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691620966789"
+      },
+      {
+        "key": "bibr33-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11218-012-9178-2"
+      },
+      {
+        "key": "bibr34-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167296223006"
+      },
+      {
+        "key": "bibr35-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.learninstruc.2017.07.003"
+      },
+      {
+        "key": "bibr36-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/30035545"
+      },
+      {
+        "key": "bibr37-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11218-020-09543-5"
+      },
+      {
+        "key": "bibr38-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cedpsych.2015.03.004"
+      },
+      {
+        "key": "bibr39-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/001440290106700203"
+      },
+      {
+        "key": "bibr40-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.79.3.280"
+      },
+      {
+        "key": "bibr41-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.97.2.170"
+      },
+      {
+        "key": "bibr42-08295735211055355",
+        "first-page": "229",
+        "volume-title": "Handbook of competence and motivation",
+        "author": "Pomerantz E. M.",
+        "year": "2005"
+      },
+      {
+        "key": "bibr43-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/edu0000455"
+      },
+      {
+        "key": "bibr44-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.96.4.743"
+      },
+      {
+        "key": "bibr45-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0893-3200.19.2.286"
+      },
+      {
+        "key": "bibr46-08295735211055355",
+        "first-page": "183",
+        "volume-title": "Handbook of self-determination research",
+        "author": "Reeve J.",
+        "year": "2002"
+      },
+      {
+        "key": "bibr47-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/501484"
+      },
+      {
+        "key": "bibr48-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/B:MOEM.0000032312.95499.6f"
+      },
+      {
+        "key": "bibr49-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.57.5.749"
+      },
+      {
+        "key": "bibr50-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.55.1.68"
+      },
+      {
+        "key": "bibr51-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1521/978.14625/28806"
+      },
+      {
+        "key": "bibr52-08295735211055355",
+        "first-page": "795",
+        "volume-title": "Developmental psychopathology: Theory and methods",
+        "volume": "1",
+        "author": "Ryan R. M.",
+        "year": "2006",
+        "edition": "2"
+      },
+      {
+        "key": "bibr53-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.50.3.550"
+      },
+      {
+        "key": "bibr54-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11031-013-9351-8"
+      },
+      {
+        "key": "bibr55-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/10983007040060040401"
+      },
+      {
+        "key": "bibr56-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/edu0000199"
+      },
+      {
+        "key": "bibr57-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10648-010-9142-7"
+      },
+      {
+        "key": "bibr58-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.98.1.75"
+      },
+      {
+        "key": "bibr59-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.72.5.1161"
+      },
+      {
+        "key": "bibr60-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ejsp.202"
+      },
+      {
+        "key": "bibr61-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.97.3.468"
+      },
+      {
+        "key": "bibr62-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/edu0000420"
+      },
+      {
+        "key": "bibr63-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.learninstruc.2011.07.001"
+      },
+      {
+        "key": "bibr64-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/ceps.1999.1021"
+      },
+      {
+        "key": "bibr65-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0040934"
+      },
+      {
+        "key": "bibr66-08295735211055355",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.70.4.767"
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of School Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/08295735211055355",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/08295735211055355",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/08295735211055355",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T15:27:24Z",
+      "timestamp": 1777390044000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/08295735211055355"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    },
+    "references-count": 66,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/08295735211055355"
+    ],
+    "URL": "https://doi.org/10.1177/08295735211055355",
+    "relation": {},
+    "ISSN": [
+      "0829-5735",
+      "2154-3984"
+    ],
+    "issn-type": [
+      {
+        "value": "0829-5735",
+        "type": "print"
+      },
+      {
+        "value": "2154-3984",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    }
+  },
+  "almeqdad_2023": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2026-07-04T16:39:54Z",
+      "timestamp": 1783183194861,
+      "version": "3.54.6"
+    },
+    "reference-count": 77,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              29
+            ]
+          ],
+          "date-time": "2023-05-29T00:00:00Z",
+          "timestamp": 1685318400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Deanship of Scientific Research and Graduate Studies at Yarmouk University",
+        "award": [
+          "81/2021"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "81/2021"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Cogent Education"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1080/2331186x.2023.2218191",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2023-05-30T06:27:51Z",
+      "timestamp": 1685428071000
+    },
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 138,
+    "title": [
+      "The effectiveness of universal design for learning: A systematic review of the literature and meta-analysis"
+    ],
+    "prefix": "10.1080",
+    "volume": "10",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7553-5531",
+        "authenticated-orcid": false,
+        "given": "Qais I.",
+        "family": "Almeqdad",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Education, Yarmouk University, Sahdfiq Irshidat St. Irbid 21163, Jordan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1278-1257",
+        "authenticated-orcid": false,
+        "given": "Ali M.",
+        "family": "Alodat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Education, Yarmouk University, Sahdfiq Irshidat St. Irbid 21163, Jordan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mahmoud F.",
+        "family": "Alquraan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Education, Yarmouk University, Sahdfiq Irshidat St. Irbid 21163, Jordan"
+          },
+          {
+            "name": "College of Education, Al Ain University, UAE"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mohammad A.",
+        "family": "Mohaidat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Education, Yarmouk University, Sahdfiq Irshidat St. Irbid 21163, Jordan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alaa K.",
+        "family": "Al-Makhzoomy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Education, Yarmouk University, Sahdfiq Irshidat St. Irbid 21163, Jordan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_6_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4097/kjae.2018.71.2.103"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_6_3_1",
+        "first-page": "360",
+        "article-title": "The effectiveness of a proposed training programme to prepare educational materials for science lessons according to the principles of the comprehensive design for learning (UDL) on female science students and teachers enrolled in the academic diploma programme",
+        "volume": "25",
+        "author": "Al-Alshaykh K.",
+        "year": "2017",
+        "unstructured": "Al-Alshaykh, K. (2017). The effectiveness of a proposed training programme to prepare educational materials for science lessons according to the principles of the comprehensive design for learning (UDL) on female science students and teachers enrolled in the academic diploma programme. Journal of Educational Sciences, 25(4), 360\u2013397. http://search.shamaa.org/PDF/Articles/EGJes/JesVol25No4P2Y2017/jes_2017-v25-n4-p2_359-397.pdf",
+        "journal-title": "Journal of Educational Sciences"
+      },
+      {
+        "key": "e_1_3_6_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14434/josotl.v16i3.19295"
+      },
+      {
+        "key": "e_1_3_6_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/sjp.2016.35"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_6_7_1",
+        "first-page": "253",
+        "article-title": "The level of social skills amongst students with and without learning disabilities in Jordan according to their Teachers",
+        "volume": "7",
+        "author": "Almeqdad Q.",
+        "year": "2011",
+        "unstructured": "Almeqdad, Q., Bataineh, O., & Aljarrah, A. (2011). The level of social skills amongst students with and without learning disabilities in Jordan according to their Teachers. Jordanian Journal of Educational Sciences, 7(3), 253\u2013270. https://journals.yu.edu.jo/jjes/Issues/2011/Vol7No3/3.pdf",
+        "journal-title": "Jordanian Journal of Educational Sciences"
+      },
+      {
+        "key": "e_1_3_6_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2158244020969674"
+      },
+      {
+        "key": "e_1_3_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13603116.2018.1452298"
+      },
+      {
+        "key": "e_1_3_6_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.35516/hum.v49i3.1371"
+      },
+      {
+        "key": "e_1_3_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12816/0035697"
+      },
+      {
+        "key": "e_1_3_6_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0741932520908015"
+      },
+      {
+        "key": "e_1_3_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2044-8317.1988.tb00901.x"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_6_14_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.58729/2167-3454.1076",
+        "article-title": "Applying the Principles of Universal Design for Learning (UDL) in the College Classroom",
+        "volume": "7",
+        "author": "Boothe K. A.",
+        "year": "2018",
+        "unstructured": "Boothe, K. A., Lohmann, M. J., Donnell, K. A., & Hall, D. D. (2018). Applying the Principles of Universal Design for Learning (UDL) in the College Classroom. Journal of Special Education Apprenticeship, 7(3). https://eric.ed.gov/?id=EJ1201588",
+        "journal-title": "Journal of Special Education Apprenticeship"
+      },
+      {
+        "key": "e_1_3_6_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3316/QRJ0902027"
+      },
+      {
+        "key": "e_1_3_6_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0193945902250038"
+      },
+      {
+        "key": "e_1_3_6_17_1",
+        "unstructured": "Burgstahler S. Duclos R. & Turcotte M. (2000). Preliminary Findings: Faculty Teaching Assistant and Student Perceptions Regarding Accommodating Students with Disabilities in Postsecondary Environments . https://eric.ed.gov/?id=ED456718"
+      },
+      {
+        "key": "e_1_3_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13603116.2017.1325074"
+      },
+      {
+        "key": "e_1_3_6_19_1",
+        "unstructured": "CAST. (2018a). Universal Design for Learning Guidelines version 2.2 . Retrieved from http://udlguidelines.cast.org"
+      },
+      {
+        "key": "e_1_3_6_20_1",
+        "unstructured": "CAST. (2018b). UDL and the learning brain. Author. Retrieved from http://www.cast.org/products-services/resources/2018/udl-learning-brain-neuroscience"
+      },
+      {
+        "key": "e_1_3_6_21_1",
+        "volume-title": "About Universal Design for Learning",
+        "author": "CAST",
+        "year": "2022",
+        "unstructured": "CAST. (2022). About Universal Design for Learning. https://www.cast.org/impact/universal-design-for-learning-udl"
+      },
+      {
+        "key": "e_1_3_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/002205741219200104"
+      },
+      {
+        "key": "e_1_3_6_23_1",
+        "volume-title": "Statistical power analysis for the behavioral sciences",
+        "author": "Cohen J.",
+        "year": "1988",
+        "unstructured": "Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_6_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315456539"
+      },
+      {
+        "key": "e_1_3_6_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7758/9781610448864.4"
+      },
+      {
+        "key": "e_1_3_6_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0888406412446178"
+      },
+      {
+        "key": "e_1_3_6_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-981-13-8260-4_44"
+      },
+      {
+        "key": "e_1_3_6_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/19415257.2019.1685563"
+      },
+      {
+        "key": "e_1_3_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1747016117733296"
+      },
+      {
+        "key": "e_1_3_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsurg.2020.06.005"
+      },
+      {
+        "key": "e_1_3_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/S1479-363620150000007001"
+      },
+      {
+        "key": "e_1_3_6_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctv1f70kvj.8"
+      },
+      {
+        "key": "e_1_3_6_33_1",
+        "volume-title": "An introduction to systematic reviews",
+        "author": "Gough D.",
+        "year": "2017",
+        "unstructured": "Gough, D., Oliver, S., & Thomas, J. (2017). An introduction to systematic reviews (2nd ed.). SAGE.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_6_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429435515"
+      },
+      {
+        "key": "e_1_3_6_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0731948714544375"
+      },
+      {
+        "key": "e_1_3_6_36_1",
+        "volume-title": "Universal Design for Learning in the Classroom: Practical Applications",
+        "author": "Hall T. E.",
+        "year": "2012",
+        "unstructured": "Hall, T. E., Meyer, A., & Rose, D. H. (2012). Universal Design for Learning in the Classroom: Practical Applications. Guilford Press."
+      },
+      {
+        "key": "e_1_3_6_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13603116.2021.1931719"
+      },
+      {
+        "key": "e_1_3_6_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.36021/jethe.v2i1.17"
+      },
+      {
+        "key": "e_1_3_6_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0741932519862608"
+      },
+      {
+        "key": "e_1_3_6_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0731948714564575"
+      },
+      {
+        "key": "e_1_3_6_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5590/JERAP.2019.09.1.19"
+      },
+      {
+        "key": "e_1_3_6_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1540796917711668"
+      },
+      {
+        "key": "e_1_3_6_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5590/JERAP.2019.09.1.06"
+      },
+      {
+        "key": "e_1_3_6_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjet.13116"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_6_45_1",
+        "first-page": "11",
+        "article-title": "Universal Design for Instruction: The paradigm, its principles, and products for enhancing instructional access",
+        "volume": "17",
+        "author": "McGuire J. M.",
+        "year": "2003",
+        "unstructured": "McGuire, J. M., Scott, S. S., & Shaw, S. F. (2003). Universal Design for Instruction: The paradigm, its principles, and products for enhancing instructional access. Journal of Postsecondary Education and Disability, 17(1), 11\u201321.",
+        "journal-title": "Journal of Postsecondary Education and Disability"
+      },
+      {
+        "key": "e_1_3_6_46_1",
+        "volume-title": "Research in Education: Evidence-Based Inquiry",
+        "author": "McMillan J. H.",
+        "year": "2010",
+        "unstructured": "McMillan, J. H., & Schumacher, S. (2010). Research in Education: Evidence-Based Inquiry. MyEducationLab Series. Pearson.\u200f."
+      },
+      {
+        "key": "e_1_3_6_47_1",
+        "volume-title": "Universal Design for Learning: Theory and Practice",
+        "author": "Meyer A.",
+        "year": "2014",
+        "unstructured": "Meyer, A., Rose, D. H., & Gordon, D. (2014). Universal Design for Learning: Theory and Practice. CAST Professional Publishing. http://www.myilibrary.com?id=915387"
+      },
+      {
+        "key": "e_1_3_6_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.9756/INT-JECSE/V12I2.201066"
+      },
+      {
+        "key": "e_1_3_6_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2046-4053-4-1"
+      },
+      {
+        "key": "e_1_3_6_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1348/000711000159150"
+      },
+      {
+        "key": "e_1_3_6_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su13020554"
+      },
+      {
+        "key": "e_1_3_6_52_1",
+        "volume-title": "Design and deliver: Planning and teaching using universal design for learning",
+        "author": "Nelson L. L.",
+        "year": "2014",
+        "unstructured": "Nelson, L. L. (2014). Design and deliver: Planning and teaching using universal design for learning. Brookes Publishing Co."
+      },
+      {
+        "key": "e_1_3_6_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-658-27602-7_1"
+      },
+      {
+        "key": "e_1_3_6_54_1",
+        "volume-title": "Ed Tech Developer\u2019s Guide",
+        "author": "Office of Educational Technology",
+        "year": "2015",
+        "unstructured": "Office of Educational Technology. (2015). Ed Tech Developer\u2019s Guide. Department of Education United States of America. https://tech.ed.gov/developers-guide/"
+      },
+      {
+        "key": "e_1_3_6_55_1",
+        "volume-title": "National Education Technology Plan",
+        "author": "Office of Educational Technology",
+        "year": "2016",
+        "unstructured": "Office of Educational Technology. (2016). National Education Technology Plan. Department of Education United States of America. https://tech.ed.gov/netp/"
+      },
+      {
+        "key": "e_1_3_6_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09362835.2016.1196450"
+      },
+      {
+        "key": "e_1_3_6_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/s1413-65382519000400009"
+      },
+      {
+        "key": "e_1_3_6_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijsu.2021.105906"
+      },
+      {
+        "key": "e_1_3_6_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.im.2014.08.008"
+      },
+      {
+        "key": "e_1_3_6_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11145-009-9218-2"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_6_61_1",
+        "first-page": "121",
+        "article-title": "Universal design for learning and multimedia technology: Supporting culturally and linguistically diverse students",
+        "volume": "24",
+        "author": "Rao K.",
+        "year": "2015",
+        "unstructured": "Rao, K. (2015). Universal design for learning and multimedia technology: Supporting culturally and linguistically diverse students. Journal of Educational Multimedia & Hypermedia, 24(2), 121\u2013137. https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/c273b37c-5b7b-450e-8667-fdd7d15e182a/content",
+        "journal-title": "Journal of Educational Multimedia & Hypermedia"
+      },
+      {
+        "key": "e_1_3_6_62_1",
+        "article-title": "Universal design for instruction in postsecondary education: A systematic review of empirically based articles",
+        "author": "Roberts K.",
+        "year": "2011",
+        "unstructured": "Roberts, K., Park, H., Brown, S., & Cook, B. (2011). Universal design for instruction in postsecondary education: A systematic review of empirically based articles. Journal of Postsecondary Education and Disability. https://files.eric.ed.gov/fulltext/EJ941728.pdf",
+        "journal-title": "Journal of Postsecondary Education and Disability"
+      },
+      {
+        "key": "e_1_3_6_63_1",
+        "volume-title": "Harvard Education Press",
+        "author": "Rose D. H.",
+        "year": "2006",
+        "unstructured": "Rose, D. H., & Meyer, A. (2006). A practical reader in universal design for learning. In Harvard Education Press. Harvard Education Press."
+      },
+      {
+        "key": "e_1_3_6_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13603116.2017.1362598"
+      },
+      {
+        "key": "e_1_3_6_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40594-019-0161-8"
+      },
+      {
+        "key": "e_1_3_6_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13603116.2019.1651910"
+      },
+      {
+        "key": "e_1_3_6_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4236/jss.2018.65014"
+      },
+      {
+        "key": "e_1_3_6_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.g7647"
+      },
+      {
+        "key": "e_1_3_6_69_1",
+        "volume-title": "Assistive technology: Building bridges",
+        "author": "Sik-L\u00e1nyi C.",
+        "year": "2015",
+        "unstructured": "Sik-L\u00e1nyi, C., Hoogerwerf, E. J., & Miesenberger, K. (Eds.). (2015). Assistive technology: Building bridges (Vol. 217). IOS Press."
+      },
+      {
+        "key": "e_1_3_6_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5206/eei.v27i1.7743"
+      },
+      {
+        "key": "e_1_3_6_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1352/2326-6988-8.1.58"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_6_72_1",
+        "first-page": "59",
+        "article-title": "Engaging clinicians and graduate students in the design and evaluation of educational resources about universal design for learning",
+        "volume": "45",
+        "author": "Tomas V.",
+        "year": "2021",
+        "unstructured": "Tomas, V., Solomon, P., Hamilton, J., & Campbell, W. N. (2021). Engaging clinicians and graduate students in the design and evaluation of educational resources about universal design for learning. Canadian Journal of Speech-Language Pathology & Audiology, 45(1), 59\u201375. https://web.p.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1913200X&AN=152028042&h=7x8W8SNf3jBZNXHr%2fCmOzpbR2u%2bo0GZBnxVE%2fIyiTQmzsqfDrmYIVIN7DFIVSyuYnoWASG1aVi%2bXQboh1gwyuA%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d1913200X%26AN%3d152028042",
+        "journal-title": "Canadian Journal of Speech-Language Pathology & Audiology"
+      },
+      {
+        "key": "e_1_3_6_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1034912X.2020.1812539"
+      },
+      {
+        "key": "e_1_3_6_74_1",
+        "unstructured": "U.S. Department of Education. (2015). Every Student Succeeds Act (ESSA) | U.S. Department of Education . https://www.ed.gov/essa?src=rn"
+      },
+      {
+        "key": "e_1_3_6_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v036.i03"
+      },
+      {
+        "key": "e_1_3_6_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2158244017737815"
+      },
+      {
+        "key": "e_1_3_6_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2601248.2601268"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_6_78_1",
+        "first-page": "33",
+        "article-title": "Embracing diversity and accessibility: A mixed methods study of the impact of an online disability awareness programme",
+        "volume": "30",
+        "author": "Wynants S. A.",
+        "year": "2017",
+        "unstructured": "Wynants, S. A., & Dennis, J. M. (2017). Embracing diversity and accessibility: A mixed methods study of the impact of an online disability awareness programme. Journal of Postsecondary Education and Disability, 30(1), 33\u201348. https://files.eric.ed.gov/fulltext/EJ1144611.pdf",
+        "journal-title": "Journal of Postsecondary Education and Disability"
+      },
+      {
+        "key": "e_1_3_6_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0739456X17723971"
+      }
+    ],
+    "container-title": [
+      "Cogent Education"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2023.2218191",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2024-10-21T13:02:36Z",
+      "timestamp": 1729515756000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/2331186X.2023.2218191"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "references-count": 77,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/2331186X.2023.2218191"
+    ],
+    "URL": "https://doi.org/10.1080/2331186x.2023.2218191",
+    "relation": {},
+    "ISSN": [
+      "2331-186X"
+    ],
+    "issn-type": [
+      {
+        "value": "2331-186X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=oaed20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=oaed20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2023-01-10",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-05-14",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-05-29",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "2218191"
+  },
+  "winne_2022": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T23:18:40Z",
+      "timestamp": 1782775120689,
+      "version": "3.54.5"
+    },
+    "reference-count": 37,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2022-05-16T00:00:00Z",
+          "timestamp": 1652659200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2022-05-16T00:00:00Z",
+          "timestamp": 1652659200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Metacognition Learning"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11409-022-09305-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2022-05-16T08:03:13Z",
+      "timestamp": 1652688193000
+    },
+    "page": "773-791",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 70,
+    "title": [
+      "Modeling self-regulated learning as learners doing learning science: How trace data and learning analytics help develop skills for self-regulated learning"
+    ],
+    "prefix": "10.1007",
+    "volume": "17",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5133-7525",
+        "authenticated-orcid": false,
+        "given": "Philip H.",
+        "family": "Winne",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "9305_CR1",
+        "volume-title": "Self-efficacy: The exercise of control",
+        "author": "A Bandura",
+        "year": "1997",
+        "unstructured": "Bandura, A. (1997). Self-efficacy: The exercise of control. W. H. Freeman."
+      },
+      {
+        "issue": "1",
+        "key": "9305_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1080/10627197.2015.1127751",
+        "volume": "21",
+        "author": "JL Berger",
+        "year": "2016",
+        "unstructured": "Berger, J. L., & Karabenick, S. A. (2016). Construct validity of self-reported metacognitive learning strategies. Educational Assessment, 21(1), 19\u201333.",
+        "journal-title": "Educational Assessment"
+      },
+      {
+        "key": "9305_CR3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ericsson, K. A., & Harwell, K. W. (2019). Deliberate practice and proposed limits on the effects of practice on the acquisition of expert performance: Why the original definition matters and recommendations for future research. Frontiers in Psychology, 10. https://doi.org/10.3389/fpsyg.2019.02396",
+        "DOI": "10.3389/fpsyg.2019.02396"
+      },
+      {
+        "key": "9305_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s10648-020-09525-1",
+        "volume": "32",
+        "author": "L Fiorella",
+        "year": "2020",
+        "unstructured": "Fiorella, L. (2020). The science of habit and its implications for student learning and well-being. Educational Psychology Review, 32, 1\u201323.",
+        "journal-title": "Educational Psychology Review"
+      },
+      {
+        "key": "9305_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "E6106",
+        "DOI": "10.1073/pnas.1711978115",
+        "volume": "115",
+        "author": "AJ Fisher",
+        "year": "2018",
+        "unstructured": "Fisher, A. J., Medaglia, J. D., & Jeronimus, B. F. (2018). Lack of group-to-individual generalizability is a threat to human subjects research. Proceedings of the National Academy of Sciences, USA, 115, E6106\u2013E6115. https://doi.org/10.1073/pnas.1711978115",
+        "journal-title": "Proceedings of the National Academy of Sciences, USA"
+      },
+      {
+        "key": "9305_CR6",
+        "first-page": "231",
+        "volume-title": "The nature of intelligence",
+        "author": "JH Flavell",
+        "year": "1976",
+        "unstructured": "Flavell, J. H. (1976). Metacognitive aspects of problem solving. In L. B. Resnick (Ed.), The nature of intelligence (pp. 231\u2013236). Erlbaum Associates."
+      },
+      {
+        "issue": "4",
+        "key": "9305_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "324",
+        "DOI": "10.1016/0010-0285(70)90019-8",
+        "volume": "1",
+        "author": "JH Flavell",
+        "year": "1970",
+        "unstructured": "Flavell, J. H., Friedrichs, A. G., & Hoyt, J. D. (1970). Developmental changes in memorization processes. Cognitive Psychology, 1(4), 324\u2013340.",
+        "journal-title": "Cognitive Psychology"
+      },
+      {
+        "key": "9305_CR8",
+        "volume-title": "\u201cRaw data\u201d is an oxymoron",
+        "year": "2013",
+        "unstructured": "Gitelman, L. (Ed.). (2013). \u201cRaw data\u201d is an oxymoron. The MIT Press."
+      },
+      {
+        "key": "9305_CR9",
+        "volume-title": "The scientist in the crib: Minds, brains, and how children learn",
+        "author": "A Gopnik",
+        "year": "1999",
+        "unstructured": "Gopnik, A., Meltzoff, A. N., & Kuhl, P. K. (1999). The scientist in the crib: Minds, brains, and how children learn. William Morrow & Co."
+      },
+      {
+        "issue": "4",
+        "key": "9305_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "208",
+        "DOI": "10.1037/h0022263",
+        "volume": "56",
+        "author": "JT Hart",
+        "year": "1965",
+        "unstructured": "Hart, J. T. (1965). Memory and the feeling-of-knowing experience. Journal of Educational Psychology, 56(4), 208\u2013216.",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "9305_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "685",
+        "DOI": "10.1016/S0022-5371(67)80072-0",
+        "volume": "6",
+        "author": "JT Hart",
+        "year": "1967",
+        "unstructured": "Hart, J. T. (1967). Memory and the memory-monitoring process. Journal of Verbal Learning and Verbal Behavior, 6, 685\u2013691.",
+        "journal-title": "Journal of Verbal Learning and Verbal Behavior"
+      },
+      {
+        "key": "9305_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "80",
+        "DOI": "10.1016/j.cedpsych.2016.12.002",
+        "volume": "49",
+        "author": "MK Hartwig",
+        "year": "2017",
+        "unstructured": "Hartwig, M. K., & Dunlosky, J. (2017). Category learning judgments in the classroom: Can students judge how well they know course topics? Contemporary Educational Psychology, 49, 80\u201390.",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "9305_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "139",
+        "DOI": "10.1080/00461520701416231",
+        "volume": "42",
+        "author": "SA Karabenick",
+        "year": "2007",
+        "unstructured": "Karabenick, S. A., Wooley, M. E., Friedel, J. M., Ammon, B. V., Blazevski, J., Rhee Bonney, C., De Groot, E. V., Gilbert, M. C., Musu, L., Kempler, T. M., & Kelly, K. L. (2007). Cognitive processing of self-report items in educational research: Do they think what we mean? Educational Psychologist, 42(3), 139\u2013151.",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "9305_CR14",
+        "volume-title": "Handbook of learning analytics",
+        "year": "2021",
+        "unstructured": "Lang, C., Siemens, G., Wise, A., & Ga\u0161evi\u0107, D. (Eds.). (2021). Handbook of learning analytics (2nd ed.). Society for Learning Analytics Research.",
+        "edition": "2"
+      },
+      {
+        "issue": "2",
+        "key": "9305_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "673",
+        "DOI": "10.1007/s11423-021-09980-9",
+        "volume": "69",
+        "author": "S Li",
+        "year": "2021",
+        "unstructured": "Li, S., Zheng, J., Lajoie, S. P., & Wiseman, J. (2021). Examining the relationship between emotion variability, self-regulated learning, and task performance in an intelligent tutoring system. Educational Technology Research and Development, 69(2), 673\u2013692.",
+        "journal-title": "Educational Technology Research and Development"
+      },
+      {
+        "issue": "1",
+        "key": "9305_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/00461520.2017.1371601",
+        "volume": "53",
+        "author": "DB Miele",
+        "year": "2018",
+        "unstructured": "Miele, D. B., & Scholer, A. A. (2018). The role of metamotivational monitoring in motivation regulation. Educational Psychologist, 53(1), 1\u201321.",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "9305_CR17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), The psychology of learning and motivation, 26, 125\u2013141.",
+        "DOI": "10.1016/S0079-7421(08)60053-5"
+      },
+      {
+        "key": "9305_CR18",
+        "volume-title": "The psychology of intelligence",
+        "author": "J Piaget",
+        "year": "1950",
+        "unstructured": "Piaget, J. (1950). The psychology of intelligence. Routledge."
+      },
+      {
+        "key": "9305_CR19",
+        "volume-title": "Using process mining to analyse self-regulated learning: A systematic analysis of four algorithms",
+        "author": "J Saint",
+        "year": "2021",
+        "unstructured": "Saint, J., Fan, Yl., Singh, S., Ga\u0161evi\u0107, D., & Pardo, A. (2021). Using process mining to analyse self-regulated learning: A systematic analysis of four algorithms. Learning Analytics and Knowledge LAK21."
+      },
+      {
+        "key": "9305_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1207/s15326985ep2402_1",
+        "volume": "24",
+        "author": "G Salomon",
+        "year": "1989",
+        "unstructured": "Salomon, G., & Perkins, D. N. (1989). Rocky roads to transfer: Rethinking mechanisms of a neglected phenomenon. Educational Psychologist, 24, 113\u2013142.",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "issue": "1",
+        "key": "9305_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.1109/TIT.1953.1188572",
+        "volume": "1",
+        "author": "C Shannon",
+        "year": "1953",
+        "unstructured": "Shannon, C. (1953). The lattice theory of information. Transactions of the IRE Professional Group on Information Theory, 1(1), 105\u2013107.",
+        "journal-title": "Transactions of the IRE Professional Group on Information Theory"
+      },
+      {
+        "key": "9305_CR22",
+        "unstructured": "Statistics Canada. (2021). Postsecondary enrolments, by international standard classification of education, institution type, classification of instructional programs, STEM and BHASE groupings, status of student in Canada, age group and gender. Retrieved from https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710016301. Accessed 5 May 2022."
+      },
+      {
+        "key": "9305_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1080/00461520903433596",
+        "volume": "45",
+        "author": "B Weiner",
+        "year": "2010",
+        "unstructured": "Weiner, B. (2010). The development of an attribution-based theory of motivation: A history of ideas. Educational Psychologist, 45, 28\u201336.",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "9305_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "333",
+        "DOI": "10.1016/0742-051X(87)90025-4",
+        "volume": "3",
+        "author": "PH Winne",
+        "year": "1987",
+        "unstructured": "Winne, P. H. (1987). Why process-product research cannot explain process-product findings and a proposed remedy: The cognitive mediational paradigm. Teaching and Teacher Education, 3, 333\u2013356.",
+        "journal-title": "Teaching and Teacher Education"
+      },
+      {
+        "key": "9305_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "173",
+        "DOI": "10.1207/s15326985ep3004_2",
+        "volume": "30",
+        "author": "PH Winne",
+        "year": "1995",
+        "unstructured": "Winne, P. H. (1995a). Inherent details in self-regulated learning. Educational Psychologist, 30, 173\u2013187.",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "9305_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "223",
+        "DOI": "10.1207/s15326985ep3004_9",
+        "volume": "30",
+        "author": "PH Winne",
+        "year": "1995",
+        "unstructured": "Winne, P. H. (1995b). Self regulation is ubiquitous but its forms vary with knowledge. Educational Psychologist, 30, 223\u2013228.",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "9305_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "397",
+        "DOI": "10.1037/0022-0663.89.3.397",
+        "volume": "89",
+        "author": "PH Winne",
+        "year": "1997",
+        "unstructured": "Winne, P. H. (1997). Experimenting to bootstrap self-regulated learning. Journal of Educational Psychology, 89, 397\u2013410.",
+        "journal-title": "Journal of Educational Psychology"
+      },
+      {
+        "key": "9305_CR28",
+        "first-page": "472",
+        "volume": "52",
+        "author": "PH Winne",
+        "year": "2010",
+        "unstructured": "Winne, P. H. (2010). Bootstrapping learner\u2019s self-regulated learning. Psychological Test and Assessment Modeling, 52, 472\u2013490.",
+        "journal-title": "Psychological Test and Assessment Modeling"
+      },
+      {
+        "issue": "3",
+        "key": "9305_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1177/016146811711900305",
+        "volume": "119",
+        "author": "PH Winne",
+        "year": "2017",
+        "unstructured": "Winne, P. H. (2017). Leveraging big data to help each learner upgrade learning and accelerate learning science. Teachers College Record, 119(3), 1\u201324.",
+        "journal-title": "Teachers College Record"
+      },
+      {
+        "key": "9305_CR30",
+        "first-page": "36",
+        "volume-title": "Handbook of self-regulation of learning and performance",
+        "author": "PH Winne",
+        "year": "2018",
+        "unstructured": "Winne, P. H. (2018). Cognition and metacognition within self-regulated learning. In D. Schunk & J. Greene (Eds.), Handbook of self-regulation of learning and performance (2nd ed., pp. 36\u201348). Routledge.",
+        "edition": "2"
+      },
+      {
+        "key": "9305_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "285",
+        "DOI": "10.1016/j.chb.2019.03.026",
+        "volume": "96",
+        "author": "PH Winne",
+        "year": "2019",
+        "unstructured": "Winne, P. H. (2019). Paradigmatic dimensions of instrumentation and analytic methods in research on self-regulated learning. Computers in Human Behavior, 96, 285\u2013290.",
+        "journal-title": "Computers in Human Behavior"
+      },
+      {
+        "key": "9305_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "165",
+        "DOI": "10.14786/flr.v8i3.625",
+        "volume": "8",
+        "author": "PH Winne",
+        "year": "2020",
+        "unstructured": "Winne, P. H. (2020a). A proposed remedy for grievances about self-report methodologies. Frontline Learning Research, 8, 165\u2013174.",
+        "journal-title": "Frontline Learning Research"
+      },
+      {
+        "key": "9305_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Winne, P. H. (2020b). Construct and consequential validity for learning analytics based on trace data. Computers in Human Behavior, 112. https://doi.org/10.1016/j.chb.2020.106457",
+        "DOI": "10.1016/j.chb.2020.106457"
+      },
+      {
+        "key": "9305_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "93",
+        "DOI": "10.1017/9781108888295.007",
+        "volume-title": "The Cambridge handbook of the learning sciences",
+        "author": "PH Winne",
+        "year": "2022",
+        "unstructured": "Winne, P. H., & Azevedo, R. (2022). Metacognition and self-regulated learning. In R. K. Sawyer (Ed.), The Cambridge handbook of the learning sciences (3rd ed., pp. 93\u2013113). Cambridge University Press.",
+        "edition": "3"
+      },
+      {
+        "key": "9305_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "696",
+        "DOI": "10.1017/9781108235631.028",
+        "volume-title": "Cambridge handbook of cognition and education",
+        "author": "PH Winne",
+        "year": "2019",
+        "unstructured": "Winne, P. H., & Marzouk, Z. (2019). Learning strategies and self-regulated learning. In J. Dunlosky & K. Rawson (Eds.), Cambridge handbook of cognition and education (pp. 696\u2013715). Cambridge University Press."
+      },
+      {
+        "key": "9305_CR36",
+        "first-page": "177",
+        "volume": "40",
+        "author": "PH Winne",
+        "year": "1994",
+        "unstructured": "Winne, P. H., Gupta, L., & Nesbit, J. C. (1994). Exploring individual differences in studying strategies using graph theoretic statistics. Alberta Journal of Educational Research, 40, 177\u2013193.",
+        "journal-title": "Alberta Journal of Educational Research"
+      },
+      {
+        "key": "9305_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.18608/jla.2019.62.7",
+        "volume": "6",
+        "author": "PH Winne",
+        "year": "2019",
+        "unstructured": "Winne, P. H., Teng, K., Chang, D., Lin, M.P.-C., Marzouk, Z., Nesbit, J. C., Patzak, A., Rakovi\u0107, M., Samadi, D., & Vytasek, J. (2019). nStudy: Software for learning analytics about processes for self-regulated learning. Journal of Learning Analytics, 6, 95\u2013106.",
+        "journal-title": "Journal of Learning Analytics"
+      }
+    ],
+    "container-title": [
+      "Metacognition and Learning"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11409-022-09305-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11409-022-09305-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11409-022-09305-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2022-11-29T08:27:07Z",
+      "timestamp": 1669710427000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11409-022-09305-y"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          16
+        ]
+      ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "9305"
+    ],
+    "URL": "https://doi.org/10.1007/s11409-022-09305-y",
+    "relation": {},
+    "ISSN": [
+      "1556-1623",
+      "1556-1631"
+    ],
+    "issn-type": [
+      {
+        "value": "1556-1623",
+        "type": "print"
+      },
+      {
+        "value": "1556-1631",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "29 June 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "28 April 2022",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "16 May 2022",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  },
+  "maldonado_2021": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ],
+      "date-time": "2026-04-20T12:33:53Z",
+      "timestamp": 1776688433171,
+      "version": "3.51.2"
+    },
+    "reference-count": 0,
+    "publisher": "Virginia Tech Libraries",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "DOI": "10.21061/jcte.v35i1.a3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2021-08-17T15:50:49Z",
+      "timestamp": 1629215449000
+    },
+    "page": "36",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "An Application of Holland\u2019s Theory to Career Interests and Selected Careers of Automotive Technology Students"
+    ],
+    "prefix": "10.21061",
+    "volume": "35",
+    "author": [
+      {
+        "given": "Laura G.",
+        "family": "Maldonado",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kyungin",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mark D.",
+        "family": "Threeton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "8817",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          17
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Career and Technical Education"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://journalcte.org/articles/10.21061/jcte.v35i1.a3",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ],
+      "date-time": "2025-10-16T12:54:35Z",
+      "timestamp": 1760619275000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journalcte.org/article/10.21061/jcte.v35i1.a3/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          17
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            8
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.21061/jcte.v35i1.a3",
+    "relation": {},
+    "ISSN": [
+      "1533-1830"
+    ],
+    "issn-type": [
+      {
+        "value": "1533-1830",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          17
+        ]
+      ]
+    }
+  }
+}
