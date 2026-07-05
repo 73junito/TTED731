@@ -1,12 +1,42 @@
-# Assignment 3 - Instructional Design and Delivery Plan
+# Assignment 3 Status
 
-Course: TTED 731 Adult Learners
-Due Date: July 12, 2026 by 11:59 PM
-Points: 20
+Course:
+TTED731 Adult Learners
 
-Status:
-- Research: Pending
-- Draft: Pending
-- APA Review: Pending
-- Final DOCX: Pending
-- Submitted: Pending
+Assignment:
+Instructional Design and Delivery Plan
+
+Due:
+July 12, 2026
+
+Progress
+
+☐ Literature Review
+
+☐ Outline
+
+☐ Introduction
+
+☐ Learning Objectives
+
+☐ Delivery Methods
+
+☐ Instructional Strategies
+
+☐ Technology Integration
+
+☐ UDL
+
+☐ Student Engagement
+
+☐ Conclusion
+
+☐ APA Review
+
+☐ Final DOCX
+
+☐ Final PDF
+
+☐ Git Commit
+
+☐ Submitted
