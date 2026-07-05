@@ -1,4 +1,123 @@
 {
+  "livingston_2023": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2025-02-25T05:29:11Z",
+      "timestamp": 1740461351342,
+      "version": "3.37.3"
+    },
+    "reference-count": 0,
+    "publisher": "Hamilton",
+    "isbn-type": [
+      {
+        "value": "9780761849483",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "abstract": "<p>This publication was made possible by the Rector's Fund in support of publications and books, Bar Ilan University, Israel. The Andragogic Learning Center examines an eight-year study at the Bar Ilan School of Social Work, Israel (1989-1997). The study tested the efficacy of an innovative community-based teaching approach, combining field and class instruction. The efficacy of interaction between teaching and learning style in learning process and context was also examined. More than 400 B.S.W. students participated, divided each year into an experimental group of twelve students learning all three social work methods, and two control groups learning two social work methods. A number of hypotheses were tested, utilizing a detailed before/after questionnaire, which included a learning style questionnaire (TABS) and Middleman's Study Guide for ACSW Certification Exam. Role, Learning, and Andragogy Theories provided a framework for interpreting and understanding the process and results.</p>",
+    "DOI": "10.5771/9780761849483",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2025-02-24T13:07:19Z",
+      "timestamp": 1740402439000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Andragogic Learning Center"
+    ],
+    "prefix": "10.5771",
+    "author": [
+      {
+        "given": "Moshe",
+        "family": "Sonnheim",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shlomit",
+        "family": "Lehman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3821",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2025-02-24T13:33:22Z",
+      "timestamp": 1740404002000
+    },
+    "score": 26.736792,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nomos-elibrary.de/index.php?doi=10.5771/9780761849483"
+      }
+    },
+    "subtitle": [
+      "A Field Study in Social Work Education"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780761849483"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.5771/9780761849483",
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
   "stclair_2024": {
     "indexed": {
       "date-parts": [
